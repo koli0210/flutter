@@ -39,6 +39,15 @@ dependencies:
   get: ^4.6.6
   flutter_easyloading: ^3.0.5
   flutter_spinkit: ^5.2.1
+  fluttertoast: ^8.2.10
+  dropdown_button2: ^2.3.9
+  pigment: ^1.0.4
+  intl: ^0.20.1
+  jiffy: ^6.3.2
+  firebase_auth: ^5.3.4
+  shared_preferences: ^2.3.3
+  cloud_firestore: ^5.5.1
+  carousel_slider: ^5.0.0
 
 dev_dependencies:
   flutter_test:
